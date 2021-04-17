@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EVA1_2_WIDGETS</string>
+    <string name="textview">TextView</string>
+    <string name="apellido">Apellido:</string>
+    <string name="introduce_tu_apellido">Introduce tu apellido:</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre:</string>
+    <string name="edad">Edad:</string>
+</resources>

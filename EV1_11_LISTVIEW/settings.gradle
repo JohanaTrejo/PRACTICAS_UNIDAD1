@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EV1_11_LISTVIEW"
